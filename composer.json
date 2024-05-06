@@ -13,5 +13,7 @@
             "email": "geoffroy.colpart81@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
 }
